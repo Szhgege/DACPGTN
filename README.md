@@ -5,3 +5,9 @@ Overall framework of DACPGTN. The feature information of different biomedical en
 # Requirements
 * python == 3.6
 * pytorch == 1.5.1
+* scikit-learn == 0.23.2
+* Keras == 2.3.1
+* numpy == 1.19.2
+
+
+
