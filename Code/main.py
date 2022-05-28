@@ -55,7 +55,7 @@ if __name__ == '__main__':
     norm = args.norm
     adaptive_lr = args.adaptive_lr
     # star = time.time()
-    with open('data/D_T_D_Final_Data/D_T_D_node_feature_300.pkl', 'rb') as f:
+    with open('data/D_T_D_Final_Data/D_T_D_node_feature.pkl', 'rb') as f:
         node_features = pickle.load(f)
     with open('data/D_T_D_Final_Data/D_T_D_edges.pkl', 'rb') as f:
         edges = pickle.load(f)
