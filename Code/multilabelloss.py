@@ -9,3 +9,6 @@ def multilabel_categorical_crossentropy(y_true, y_pred):
     neg_loss = torch.logsumexp(y_pred_neg, dim=-1)
     pos_loss = torch.logsumexp(y_pred_pos, dim=-1)
     return neg_loss + pos_loss
+
+
+# Retrieved from https://github.com/bojone/bert4keras. For more detailed instructions please visit the https://spaces.ac.cn/archives/7359.
