@@ -158,7 +158,7 @@ if __name__ == '__main__':
         #             best_valid_Coverage = valid_Coverage
         #             best_valid_Abs_False_Rate = valid_Abs_False_Rate
         #             best_valid_Abs_True_Rate = valid_Abs_True_Rate
-        #             path = './save_8/GTN_model_save-' + str(n_count)
+        #             path = './GTN_model_save-' + str(n_count)
         #             torch.save(model.state_dict(), path)
         #     print('---------------Best Results--------------------')
         #     print(
