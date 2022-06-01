@@ -9,7 +9,7 @@ Overall framework of DACPGTN. The feature information of different biomedical en
 * Keras == 2.3.1
 * numpy == 1.19.2
 
-If you use this code, please cite this article https://www.frontiersin.org/articles/10.3389/fphar.2022.907676
+If you use this code, please cite this article https://www.frontiersin.org/articles/10.3389/fphar.2022.907676/full.
 
 
 
