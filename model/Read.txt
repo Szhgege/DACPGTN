@@ -1,1 +1,2 @@
-We provide model files in Linux and windows environments. Please put this file in the same directory with other files in the Code folder when using it.
+We provide model files in Linux and windows environments. 
+Please put this file in the same directory with other files in the Code folder when using it.
