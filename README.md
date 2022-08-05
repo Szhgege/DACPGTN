@@ -7,6 +7,10 @@ Overall framework of DACPGTN. The feature information of different biomedical en
 * pytorch == 1.5.1
 * scikit-learn == 0.23.2
 * Keras == 2.3.1
+* tensorflow == 2.1.0
+* matplotlib == 3.3.4
+* scipy == 1.5.2
+* tqdm == 4.54.1
 * numpy == 1.19.2
 
 If this work is useful for your research, please cite this article https://www.frontiersin.org/articles/10.3389/fphar.2022.907676/full.
