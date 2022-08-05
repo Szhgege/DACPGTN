@@ -1,1 +1,4 @@
-If you use this model for testing, please import this folder directly into the model for use, because the training of this model takes up a lot of resources and takes a long time.
+If you use this model for testing, 
+please import this folder directly into the model for use, 
+because the training of this model takes up a lot of resources and takes a long time.
+Put this folder in the same directory as the python file to reproduce the results in the paper.
